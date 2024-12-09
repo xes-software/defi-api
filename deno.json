@@ -4,6 +4,7 @@
   },
   "imports": {
     "@std/assert": "jsr:@std/assert@1",
-    "@utxorpc/sdk": "npm:@utxorpc/sdk@^0.6.4"
+    "@utxorpc/sdk": "npm:@utxorpc/sdk@^0.6.4",
+    "@spacebudz/lucid": "https://deno.land/x/lucid@0.10.11/mod.ts"
   }
 }
